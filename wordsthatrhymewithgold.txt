@@ -1,7 +1,5 @@
 -mold
 -fold
--old
 -hold
 -cold
--rolled
 -sold
